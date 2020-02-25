@@ -56,7 +56,7 @@ Your mentor will:
 <a name="schedule"></a>
 
 ## Schedule
-*Monday*
+*Tuesday*
 * Think about a topic and propose some questions. 
 * Choose data that is relevant to your questions. 
 * Look for documentation to give context to your project.
@@ -67,12 +67,12 @@ Your mentor will:
 
 **NO CODE UNTIL HERE**
 
-*Tuesday - Wednesday*
+*Wednesday - Thursday morning*
 * Start importing the data and cleaning it.
 * Start the analysis. Remember all the techniques you have learned!
 * Prepare a draft of your first slides presentation (no analysis or conclusions yet): title, motivation, context, ...
 
-*Thursday*
+*Thursday afternoon*
 * Rehearsal. Take the feedback and use it!
 * Finish the analysis. Finish the slides.
 * Final improvements!
